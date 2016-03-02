@@ -1,0 +1,714 @@
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\GitHub\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Documents\RIT-RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Documents\RIT-RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Documents\RIT-RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CoffeeGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\JowLokesGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SmartassGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\WittyGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SmartassGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\WittyGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CoffeeGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LowJokesGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SmartassGuySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\WittyGuySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CoffeeGuySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LowJokesGuySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG A NEW HOPE\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SmartassGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\WittyGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CoffeeGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LowJokesGuySprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG (MANKEY DOWN)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SmartassGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\WittyGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CoffeeGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LowJokesGuySprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.png
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.png
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.png
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENDGAME)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (TIMEOUT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\TASprite.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMonkeySprite.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ProfessorSprite.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\mar6269\Desktop\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\crw4147\Documents\Visual Studio 2013\Projects\RIT_RPG (A WINNER IS YOU)\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (MORE TEXT DEBUG)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (FUSION-HA!)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\cxl9645.MAIN\Documents\RIT_RPG (CRIPPLED BLUDGEONING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (ENEMY CHATTER)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (LINE DANCING)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+D:\Users\mar6269\Downloads\RIT_RPG (REKT)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\kdi4293\Downloads\RIT_RPG (SPOOPY)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+D:\Users\kdi4293\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+C:\Users\User\Desktop\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+C:\Users\IDZIK-LAPTOP\Downloads\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Christopher\Documents\RIT_RPG (MILESTONE4-PRE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\mar6269\Desktop\RIT_RPG (FINISHLINE)\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.exe
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.pdb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\christmas-snow-background.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\LoadGame.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\NewGame.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\RITRPGLogo.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Selector.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpeechMenu.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodePoop.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CrystalSnow.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CharlesArt.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ChrisArt.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\IceCube.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\KevinArt.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\MannyArt.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverBottom.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\GameOverTop.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Victory.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\OrangeHall.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\BrofessorFinal.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeMankey64x64.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\CodeT.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\ContinueButton.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Bierre'sTank.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\DestlerArtFinal.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\FinalBossManFinal.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Content\Eastman.xnb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.exe
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\RIT_RPG.pdb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\RIT_RPG\RIT_RPG\obj\x86\Debug\RIT_RPG.csprojResolveAssemblyReference.cache
